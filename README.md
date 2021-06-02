@@ -1,6 +1,6 @@
 # Java-based-implementation-of-Generic-Stack-and-Deque-data-structures
 
-This is an Java 8 based implementation of generic Deque and Stack data structures. The Deque class has been implemented using Java arrays and uses a growable circular array formulation. The Stack interfaces uses the deque implementation. 
+This is a Java 8 based implementation of generic Deque and Stack data structures. The Deque class has been implemented using the growable circular array formulation. The Stack interface uses the deque implementation.
 
 # Folders
 
